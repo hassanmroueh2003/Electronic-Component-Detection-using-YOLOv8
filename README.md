@@ -26,7 +26,15 @@ python main.py
 Ensure `best.pt` is in the same folder as `main.py`.
 
 ---
-
+| Description                      | Image                                                         |
+| -------------------------------- | ------------------------------------------------------------- |
+| 🟫 **Resistor Detection**        | ![](simulation-images/simulation-1-resistor.png)              |
+| 🧩 **Mixed Component Detection** | ![](simulation-images/simulation-2-electronic-components.png) |
+| 🧱 **Multiple Resistors**        | ![](simulation-images/simulation-3-resistors.png)             |
+| 🔋 **Capacitor Prediction**      | ![](simulation-images/simulation-4-capacitor-prediction.png)  |
+| ⚙️ **Transistor Detection**      | ![](simulation-images/simulation-5-transistor.png)            |
+| 💻 **Colab Training Screenshot** | ![](simulation-images/simulation-6-on-google-colab.png)       |
+---
 ## 📥 Dataset Credits
 
 This project uses data from the **Electronics Components Dataset** by [Jovine](https://universe.roboflow.com/jovine/electronics-components), hosted on Roboflow Universe.
